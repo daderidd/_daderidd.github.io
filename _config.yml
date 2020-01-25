@@ -1,3 +1,17 @@
 #Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
+
+title: David De Ridder
+email: david.deridder@
+description: >- # this means to ignore newlines until "baseurl:"
+  I am David
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://daderidd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: daderidd
+github_username:  daderidd
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-feed
