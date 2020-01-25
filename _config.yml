@@ -1,6 +1,6 @@
 #Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
 
 title: David De Ridder
 email: david.deridder@
@@ -12,6 +12,6 @@ twitter_username: daderidd
 github_username:  daderidd
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
